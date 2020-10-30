@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apigasb150anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gasb150/gasb150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
