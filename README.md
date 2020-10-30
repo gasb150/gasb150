@@ -1,7 +1,5 @@
 ### 🌱 I’m currently learning 😎
 
-### 🌱 I’m currently learning 😎
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gasb150&show_icons=true&theme=ayu-mirage">
 </a>
