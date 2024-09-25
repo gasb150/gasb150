@@ -1,4 +1,4 @@
-### 🌱 Developer at endava 😎
+### 🌱 Developing / code-writing or code-reviewing 😎
 
 
 
